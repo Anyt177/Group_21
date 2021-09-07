@@ -49,5 +49,5 @@
 
 [Написать в службу поддержки](https://yandex.ru/support/id/feedback.html)   
  
-----
+
 
