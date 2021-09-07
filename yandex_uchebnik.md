@@ -15,7 +15,7 @@
 
 ![Yandex_1](https://cachev2-mskmar05.cdn.yandex.net/download.cdn.yandex.net/yadoc/schoolbook-letter.png)
 
-## Переделанный вариант
+## Измененный вариант
 
 ![Yandex_2](https://i.ibb.co/B2Gzb7q/yandex.png)  
 
