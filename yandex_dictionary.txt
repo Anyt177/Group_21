@@ -1,1 +1,1 @@
-Отправляем запрос- curl "https://dictionary.yandex.net/api/v1/dicservice/lookup?key=dict.1.1.20210907T172343Z.8de70ff116d66090.7e0e7802c5e5b362c7efd9d11f47d91aad6ff772&lang=en-ru&text=sky&ui=ru"
+ curl "https://dictionary.yandex.net/api/v1/dicservice/lookup?key=dict.1.1.20210907T172343Z.8de70ff116d66090.7e0e7802c5e5b362c7efd9d11f47d91aad6ff772&lang=en-ru&text=sky&ui=ru"
